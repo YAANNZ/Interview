@@ -36,7 +36,7 @@
 * 如何实现 KVO 手动通知
 
 ### 多线程
-推荐文章：[关于iOS多线程，你看我就够了](https://www.jianshu.com/p/0b0d9b1f1f19)，[多线程的理解（一）](http://zynlo.xyz/2018/07/04/多线程的理解一/)
+推荐文章：[关于iOS多线程，你看我就够了](https://www.jianshu.com/p/0b0d9b1f1f19)；[多线程的理解（一）](http://zynlo.xyz/2018/07/04/多线程的理解一/)
 * 进程&线程
 * 进程间通信&线程间通信
 * NSThread & GCD & NSOperation
