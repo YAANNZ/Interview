@@ -1,8 +1,12 @@
 # Interview
-建立此仓库的目的只有一个：**iOS 面试**。总结面试需要的知识，面试技巧，面试经历，不断的扩充完善，将会持续更新。
+建立此仓库的目的只有一个：**iOS 面试**。总结面试需要的知识，面试技巧，面试经历，不断的扩充完善，会逐渐附上各知识点及问题的参考讲解，将会持续更新。
 
 ## 面试指南
-个人总结的 [iOS 面试指南](https://github.com/YAANNZ/Interview/blob/master/guide.md)包含了**简历制作**、**面试知识点**、**面试技巧**、**加分书籍**等。
+个人总结的 [iOS 面试指南](https://github.com/YAANNZ/Interview/blob/master/guide.md)包含有一下内容：
+* 简历制作
+* 面试知识点
+* 面试技巧
+* 推荐书籍
 
 ## 各类型公司的面试总结
 * [BATTMD](https://github.com/YAANNZ/Interview/blob/master/BATTMD.md)
