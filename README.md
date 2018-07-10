@@ -1,9 +1,11 @@
 [![](https://img.shields.io/badge/Author-Sherlock-brightgreen.svg)](http://zynlo.xyz)
 ![](https://img.shields.io/badge/platform-iOS-red.svg)
+![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
+![](https://img.shields.io/badge/language-Swift-abcdef.svg) 
 ![](https://img.shields.io/badge/license-Apache%20License%202.0-brightgreen.svg)
 [![](https://img.shields.io/badge/简书-Gavin-red.svg)](https://www.jianshu.com/u/8ee283b782bd)
 # Interview
-建立此仓库的目的只有一个：**iOS 面试**。包含 **面试指南** 和 **面试经历** 两个部分，用来总结面试知识点，面试技巧，面试经历。持续扩充完善中，会逐渐附上各知识点及问题的参考讲解。
+> 建立此仓库的目的只有一个：**iOS 面试**。包含 **面试指南** 和 **面试经历** 两个部分，用来总结面试知识点，面试技巧，面试经历。持续扩充完善中，会逐渐附上各知识点及问题的参考讲解。
 
 ## 面试指南
 个人总结的 [iOS 面试指南](https://github.com/YAANNZ/Interview/blob/master/guide.md) 包含有一下内容：
