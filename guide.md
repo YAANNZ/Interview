@@ -1,6 +1,6 @@
 # iOS 面试指南
 ## 准备简历
-突出重点，简明扼要的简历是必须的，推荐一个简历模版，有一个免费版，三个收费版，地址：[awesome-resume](https://github.com/resumejob/awesome-resume)。HTML 模版，转 PDF 可以用 Python 脚本、Safari、Chrome插件、Adobe工具等等方式。
+突出重点，简明扼要的简历是必须的，推荐一个简历模版，有一个免费版，三个收费版，地址：[awesome-resume](https://github.com/resumejob/awesome-resume)。HTML 模版，转 PDF 可以用 Python 脚本、Safari、Chrome插件、Adobe工具等等方式。我的简历：[Download](http://zynlo.xyz/about/朱亚男_iOS.pdf)
 
 ## 知识点
 ### UI
