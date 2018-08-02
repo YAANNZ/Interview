@@ -51,6 +51,7 @@
 * [初创](https://github.com/YAANNZ/Interview/blob/master/experience/初创.md)
 * [外企](https://github.com/YAANNZ/Interview/blob/master/experience/外企.md)
 * [一般](https://github.com/YAANNZ/Interview/blob/master/experience/一般.md)
+* [国企](https://github.com/YAANNZ/Interview/blob/master/experience/国企.md)
 
 ## 关于我
 * [简书](https://www.jianshu.com/u/8ee283b782bd)
