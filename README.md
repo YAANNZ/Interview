@@ -55,4 +55,4 @@
 
 ## 关于我
 * [简书](https://www.jianshu.com/u/8ee283b782bd)
-* [Blog](http://zynlo.xyz)
+* [Blog](http://zynll.com)
