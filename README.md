@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Author-Sherlock-brightgreen.svg)](http://zynlo.xyz)
+[![](https://img.shields.io/badge/Author-Sherlock-brightgreen.svg)](http://zynll.com)
 ![](https://img.shields.io/badge/platform-iOS-red.svg)
 ![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
 ![](https://img.shields.io/badge/language-Swift-abcdef.svg) 
@@ -55,4 +55,4 @@
 
 ## 关于我
 * [简书](https://www.jianshu.com/u/8ee283b782bd)
-* [Blog](http://zynlo.xyz)
+* [Blog](http://zynll.com)
