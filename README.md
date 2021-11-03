@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Author-Sherlock-brightgreen.svg)](http://zynll.com)
 ![](https://img.shields.io/badge/platform-iOS-red.svg)
-![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
-![](https://img.shields.io/badge/language-Swift-abcdef.svg) 
+![](https://img.shields.io/badge/language-Objective--C-orange.svg)
+![](https://img.shields.io/badge/language-Swift-abcdef.svg)
 ![](https://img.shields.io/badge/license-Apache%20License%202.0-brightgreen.svg)
 [![](https://img.shields.io/badge/简书-Gavin-red.svg)](https://www.jianshu.com/u/8ee283b782bd)
 # Interview
@@ -43,15 +43,6 @@
 * 剑指Offer
 * 算法导论
 
-## 面试经历总结
-* [BATTMD](https://github.com/YAANNZ/Interview/blob/master/experience/BATTMD.md)
-* [一线](https://github.com/YAANNZ/Interview/blob/master/experience/一线.md)
-* [二线](https://github.com/YAANNZ/Interview/blob/master/experience/二线.md)
-* [高潜](https://github.com/YAANNZ/Interview/blob/master/experience/高潜.md)
-* [初创](https://github.com/YAANNZ/Interview/blob/master/experience/初创.md)
-* [外企](https://github.com/YAANNZ/Interview/blob/master/experience/外企.md)
-* [一般](https://github.com/YAANNZ/Interview/blob/master/experience/一般.md)
-* [国企](https://github.com/YAANNZ/Interview/blob/master/experience/国企.md)
 
 ## 关于我
 * [简书](https://www.jianshu.com/u/8ee283b782bd)
