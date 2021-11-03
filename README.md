@@ -35,6 +35,8 @@
 * 自我介绍
 * 常见开放性问题准备
 
+
+<div style='display: none'>
 ### 推荐书籍
 * 重构
 * 图解HTTP
@@ -42,6 +44,21 @@
 * [leetcode](https://leetcode.com)
 * 剑指Offer
 * 算法导论
+</div>
+
+
+<div style='display: none'>
+## 面试经历总结
+* [BATTMD](https://github.com/YAANNZ/Interview/blob/master/experience/BATTMD.md)
+* [一线](https://github.com/YAANNZ/Interview/blob/master/experience/一线.md)
+* [二线](https://github.com/YAANNZ/Interview/blob/master/experience/二线.md)
+* [高潜](https://github.com/YAANNZ/Interview/blob/master/experience/高潜.md)
+* [初创](https://github.com/YAANNZ/Interview/blob/master/experience/初创.md)
+* [外企](https://github.com/YAANNZ/Interview/blob/master/experience/外企.md)
+* [一般](https://github.com/YAANNZ/Interview/blob/master/experience/一般.md)
+* [国企](https://github.com/YAANNZ/Interview/blob/master/experience/国企.md)
+</div>
+
 
 
 ## 关于我
